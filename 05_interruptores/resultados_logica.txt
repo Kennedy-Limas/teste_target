@@ -1,0 +1,14 @@
+Separando as lampadas em A, B e C
+
+Realizando o teste de maneira prática para identificação dos interruptores e lâmpadas respectivamente: 
+
+realiazando uma edmarcação para cara interruptor(1, 2 e 3)
+1° Ligamos um determinado interruptor, demarcado como 1, verificamos a lâmpada acesa e deixamos por ~5min e logo desligamos.
+2° Ligamos o proximo interruptor, demarcado como 2, deixando-a ligado 
+3° Não Ligamos!
+
+Assim identificamos que: 
+
+Lâmpada A: ligada por 5 minutos → valor de calor = "quente".
+Lâmpada B: ligada agora → valor de luz = "acesa".
+Lâmpada C: nunca ligada → valor de estado = "fria".

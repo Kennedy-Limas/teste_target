@@ -1,0 +1,20 @@
+A sequencia lógica das questoes de A à F, resulta no cálculo dos quadrados perfeitos e sequencia contínua 
+
+RESULTADOS / Lógica matemática: 
+a - 9
+O próximo numero consecultivo para a sequencia é o 9
+
+b - 128
+Cada número é o dobro do anterior
+
+c - 49
+Sequencia dos quadrados perfeitos (n²) então para cada valor é feito a potenciação
+
+d - 100
+Sequencia dos quadrados perfeitos entre os numeros pares (n²) então para cada valor é feito a potenciação
+
+e - 13
+Sequencia de Fibonacci resolvida no primeiro exercício
+
+f - 20
+Sequencia continua aumentando um valor.
